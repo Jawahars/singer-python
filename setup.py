@@ -12,7 +12,7 @@ setup(name="singer-python",
       install_requires=[
           'pytz>=2018.4',
           'jsonschema>=4.16.0',
-          'simplejson==3.17.6',
+          'simplejson>=3.17.6',
           'python-dateutil>=2.6.0',
           'backoff==2.2.1',
 	  'ciso8601',
